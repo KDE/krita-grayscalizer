@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Grayscalizer Filter
+Comment=Transform an image to grayscale
+ServiceTypes=Krita/Filter
+Type=Service
+X-KDE-Library=kritaGrayscalizer
+X-Krita-Version=2
