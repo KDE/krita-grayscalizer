@@ -11,7 +11,7 @@ kde3_automoc(${kritaGrayscalizer_PART_SRCS})
 
 kde3_add_kpart(kritaGrayscalizer ${kritaGrayscalizer_PART_SRCS})
 
-target_link_libraries(kritaGrayscalizer ${KRITAUI_LIBRARY} kritapluginscommon)
+target_link_libraries(kritaGrayscalizer ${KRITAUI_LIBRARY} )
 
 install(TARGETS kritaGrayscalizer  DESTINATION ${PLUGIN_INSTALL_DIR})
 
