@@ -19,6 +19,7 @@ Name[uk]=Фільтр перетворення на тони сірого
 Name[x-test]=xxGrayscalizer Filterxx
 Comment=Transform an image to grayscale.
 Comment[en_GB]=Transform an image to greyscale.
+Comment[ga]=Tiontaigh íomhá go liathscála.
 Comment[pt]=Transforma uma imagem para tons de cinzento.
 Comment[pt_BR]=Transforma uma imagem para tons de cinzento.
 Comment[uk]=Перетворення кольору на відтінки сірого.
