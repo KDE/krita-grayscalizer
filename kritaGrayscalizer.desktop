@@ -19,6 +19,7 @@ Name[uk]=Фільтр перетворення на тони сірого
 Name[x-test]=xxGrayscalizer Filterxx
 Comment=Transform an image to grayscale.
 Comment[en_GB]=Transform an image to greyscale.
+Comment[es]=Transforma una imagen a escala de grises.
 Comment[et]=Teisendab pildi halltoonidesse.
 Comment[fr]=Transforme une image vers l'échelle de gris
 Comment[ga]=Tiontaigh íomhá go liathscála.
